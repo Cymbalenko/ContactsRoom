@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactsRoom</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+</resources>
